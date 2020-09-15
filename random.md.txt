@@ -1,0 +1,5 @@
+layout: page
+title: "Random Thoughts"
+permalink: /random
+
+Just some random thoughts here.
