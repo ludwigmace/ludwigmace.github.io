@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  2015 Onesta Cinsaut
+title: "Random Musings, Volume One"
 date:   2020-10-01 19:59:02 -0500
-categories: wine notes cinsaut cinsault
+categories: general
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet accumsan tortor. Donec posuere augue in quam euismod, in porttitor arcu cursus. Fusce dignissim tincidunt ex in blandit.
 
-Is that a minerally nose? A little peppery? No alcohol, nice.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin vel ante a orci tempus eleifend ut et magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis.
 
-Bordering on a lighter body. High side of light, very low side of medium body.
+In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim.
 
-Mouthfeel has a tiny bit of tannin pucker and it fits. A tad bit of heat. Neither are overpowering or souring. Getting some pepper on the palate. Some plumminess on the backend. Certainly not a sweet wine.
+Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum.
 
+## On Second Thought
+
+Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus. Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus.

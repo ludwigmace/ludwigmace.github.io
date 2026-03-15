@@ -1,24 +1,19 @@
 ---
 layout: post
-title:  2016 Spellbound Petit Sirah
+title: "The Last One for Now"
 date:   2020-10-10 18:00:02 -0500
-categories: wine notes cinsaut cinsault
+categories: general
 ---
+Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
 
-Bottle arrived on Thursday (good timing, we're getting a hot spell in Texas this weekend) and let it sit until Saturday evening. My tasting partner and I eat kinda late on Saturdays so we opted to go ahead and do the tasting unaccompanied.
+Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
 
-The color was a nice clean dark ruby which coats the glass. It seemed hot on the nose at first pour so I took a minute to give it some good swirling. My co-sampler was able to pick up fruity aromas a few feet away from me. I mentioned I got cranberry and kind of regret saying that out loud, because once I did that was the only flavor the other rat could pick out.
+Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
 
-Jammy at first and quickly fades. Nice tannins but didn't suck all the moisture out of my mouth. Medium body. It's confusing because the body seems to start thick and then quickly loosens up.
+Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
 
-Opened up nicely after several minutes and warming up in the glass. It's certainly not a sweet wine. Body is very smooth.
+## Wrapping It All Up
 
-No burn. Nice acidity to go along with the tannin characteristics.
+Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien.
 
-Very quick short finished. SUPER FAST. Clean.
-
-Would have been nice to try this with a steak.
-
-Not getting a lot of layers. Not very complex. This is an inoffensive petit sirah. It's got one note and it hits it AOK. Nothing wrong with this guy and nothing outstanding either. If I were a guest at a wedding reception or a eating at a steakhouse and wanted an inexpensive glass of wine I would be perfectly happy with it.
-
-Saving the 2nd half of the bottle for the next day.
+Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla.

@@ -1,21 +1,19 @@
 ---
 layout: post
-title:  2016 Farmstrong Red Blend
+title: "A Few Words About Stuff"
 date:   2020-09-19 18:41:02 -0500
-categories: wine notes red blend
+categories: general
 ---
-I probably made a mistake opening this bottle of wine while smoking a cigar. Eh
-maybe it'd be OK if I were smoking something lighter bodied but this Padron 3000
-Maduro can be overwhelming.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-**BAH** *On commence!*
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
 
-Light clean mouthfeel. Not tannic/overly dry. Strawberry (and maybe not-quite-so-sour cranberry)
-fruit but not sweet not jammy. No weird dog hair wang aftertaste which I dread and often get
-from your run of the mill grocery store wines - so nice there's nunna that there!
+Ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam nisi ut aliquid ex ea commodi consequatur?
 
-Acidity level medium-low, complements what I wrote above.
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-Not a complex/rich wine by any stretch and one that's been well received by
-anybody we've shared it with. Starts nice and finishes nice. Very enjoyable.
-Just a really clean, classy and well done fun drinker.
+## Also Worth Noting
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit.
+
+Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur.
